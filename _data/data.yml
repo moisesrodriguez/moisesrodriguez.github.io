@@ -13,13 +13,13 @@ sidebar:
 
     # Sidebar links
     email: contact@moisesrodriguez.com
-    phone: 012 345 6789
+    phone: +52 55 1118 1040
     website: moisesrodriguez.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    linkedin: moisesalejandro
+    github:
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@moisesr0driguez'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,13 +32,13 @@ sidebar:
         level: Nativa
 
     interests:
-      - item: Climbing
+      - item: Skiing
         link:
 
-      - item: Snowboarding
+      - item: Reading
         link:
 
-      - item: Cooking
+      - item: Outdoors
         link:
 
 career-profile:
@@ -53,21 +53,12 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+    - degree: High School
+      university: Issaquah High School
+      time: 2003 - 2007
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
+    - degree: BS in Computer Science
+      university: University of Washington
       time: 2007 - 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
