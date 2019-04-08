@@ -59,7 +59,8 @@ education:
 
     - degree: B.S. in Computer Science
       university: University of Washington
-      time: 2007 - 2011 
+      time: 2007 - 2011
+      details: |
         Related UW Courses
         -	Computers, Ethics, and Society. 
         -	Artificial Intelligence.
