@@ -57,36 +57,30 @@ education:
       university: Issaquah High School
       time: 2003 - 2007
 
-    - degree: BS in Computer Science
+    - degree: B.S. in Computer Science
       university: University of Washington
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+      time: 2007 - 2011 
+        Related UW Courses
+        -	Computers, Ethics, and Society. 
+        -	Artificial Intelligence.
+        - Algorithms and Computational Complexity.
+        - Data Structures and Algorithms.
+        - Machine Organization.
+        - Computer Systems.
+        - Software Development & Quality Assurance Techniques.
+        - Computer Architecture.
+        - Computer Operating Systems.
+        - Database Systems Design.
+        - Human-Computer Interaction.
+        - Client/Server Programming for Internet Applications.
+        - Computer-Mediated Communications. 
 
 experiences:
-    - role: Lead Developer
+    - role: Co-founder at SIGNOT
       time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      company: SIGNOT, Querétaro, México
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
+        Started a software company that focues on Notaries, and
 
     - role: Senior Software Engineer
       time: 2014 - 2015
