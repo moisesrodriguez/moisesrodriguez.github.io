@@ -56,28 +56,13 @@ career-profile:
       for the whole process from beginning to end.
 
 education:
+    - degree: B.S. in Computer Science
+      university: University of Washington
+      time: 2007 - 2011 
+
     - degree: High School
       university: Issaquah High School
       time: 2003 - 2007
-
-    - degree: B.S. in Computer Science
-      university: University of Washington
-      time: 2007 - 2011
-      details: |
-        Related UW Courses
-        -	Computers, Ethics, and Society. 
-        -	Artificial Intelligence.
-        - Algorithms and Computational Complexity.
-        - Data Structures and Algorithms.
-        - Machine Organization.
-        - Computer Systems.
-        - Software Development & Quality Assurance Techniques.
-        - Computer Architecture.
-        - Computer Operating Systems.
-        - Database Systems Design.
-        - Human-Computer Interaction.
-        - Client/Server Programming for Internet Applications.
-        - Computer-Mediated Communications. 
 
 experiences:
     - role: Co-founder at SIGNOT
@@ -92,14 +77,14 @@ experiences:
         process. Today we are a company with 22 employees under
         my supervision. It is my responsibility to set the
         vision of how the company will keep a technological
-        edge. Make sure the development will meet both
+        edge as well of making sure the development will meet both
         short-term and long-term goals set.
 
     - role: Software Developer
       time: 2011 - 2015
       company: Atomic Infotech, Seattle 
       details: |
-        As software developer I worked onthe of the creation
+        As software developer I worked on the of the creation
         of an intranet for clients of Atomic. The projects I worked included
 
           - Business Intelligence/Reporting
