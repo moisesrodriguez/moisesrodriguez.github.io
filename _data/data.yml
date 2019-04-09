@@ -22,7 +22,7 @@ sidebar:
     twitter: '@moisesr0driguez'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads: 35347870-moises-rodriguez # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
@@ -38,7 +38,7 @@ sidebar:
       - item: Reading
         link:
 
-      - item: Outdoors
+      - item: Traveling
         link:
 
 career-profile:
@@ -83,22 +83,9 @@ experiences:
       details: |
         Started a software company that focues on Notaries, and
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Software Developer
+      time: 2011 - 2015
+      company: Atomic Infotech, Seattle 
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
