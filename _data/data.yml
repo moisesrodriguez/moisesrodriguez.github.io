@@ -44,13 +44,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Started a software company that focuses in facilitating
+      the processes of notaries. It brings technology to an area
+      that has been left behind in the bureaucracy of Mexico.
+      We help notaries move to a digital era and make their
+      processes more efficient. As part of our continuous effort
+      to bring transparency, we integrate our software with all
+      the actors in the notary process. These includes banks,
+      construction companies, legal offices and the government.
+      This way all the parties involved have a single platform
+      for the whole process from beginning to end.
 
 education:
     - degree: High School
@@ -81,20 +84,32 @@ experiences:
       time: 2015 - Present
       company: SIGNOT, Querétaro, México
       details: |
-        Started a software company that focues on Notaries, and
+        As CTO of **Signot** I am in charge of developing all
+        the technical aspects of the company. The company
+        started with three people, my co-founder (an attorney),
+        an assistant and me. As the only developer in the early
+        stages I was responsible for the whole development
+        process. Today we are a company with 22 employees under
+        my supervision. It is my responsibility to set the
+        vision of how the company will keep a technological
+        edge. Make sure the development will meet both
+        short-term and long-term goals set.
 
     - role: Software Developer
       time: 2011 - 2015
       company: Atomic Infotech, Seattle 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        As software developer I worked onthe of the creation
+        of an intranet for clients of Atomic. The projects I worked included
 
-          - Bullet point
-          - Bullet point
+          - Business Intelligence/Reporting
+          - Corporate Intranets & Extranets
+          - Document Management Solutions
+          - Social Media & Networking
+          - Accounting Integration
+          - Helpdesk & Support
+          - Giftcard System
+          - Converting legacy print jobs to newer printers
 
 projects:
     title: Projects
