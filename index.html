@@ -11,8 +11,8 @@ layout: default
 
 {% include experiences.html %}
 
-{% unless site.data.data.sidebar.projects %}
+{% if site.data.data.sidebar.projects %}
   {% include projects.html %}
-{% endunless %}
+{% endif %}
 
 {% include skills.html %}
