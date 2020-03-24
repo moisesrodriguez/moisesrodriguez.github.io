@@ -151,6 +151,9 @@ skills:
     title: Skills
 
     toolset:
+      - name: Project Management
+        level: 95%
+        
       - name: Node.js / Javascript
         level: 95%
 
@@ -159,15 +162,21 @@ skills:
 
       - name: HTML5 & CSS
         level: 90%
+      
+      - name: CI
+        level: 90%
+        
+      - name: Unit Testing
+        level: 85%
+        
+      - name: Docker
+        level: 80%
 
       - name: PHP
-        level: 80%
+        level: 70%
       
       - name: MySQL
         level: 80%
-
-      - name: Docker
-        level: 70%
 
       - name: AWS - S3
         level: 80%
@@ -176,10 +185,13 @@ skills:
         level: 80%
 
       - name: AWS - Router 53
-        level: 70%
+        level: 80%
 
       - name: AWS - Lambda
         level: 80%
+        
+      - name: AWS - ECS
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers
