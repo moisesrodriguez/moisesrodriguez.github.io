@@ -151,8 +151,6 @@ skills:
     title: Skills
 
     toolset:
-      - name: Project Management
-        level: 95%
         
       - name: Node.js / Javascript
         level: 95%
@@ -170,6 +168,9 @@ skills:
         level: 85%
         
       - name: Docker
+        level: 80%
+        
+      - name: Project Management
         level: 80%
 
       - name: PHP
